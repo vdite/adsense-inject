@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Simple Google AdSense inject
- * Plugin URI: no
+ * Plugin URI: https://github.com/vdite/adsense-inject
  * Description: A simple plugin to add Google AdSense everywhere except on specific posts as configured from the WordPress admin panel.
  * Version: 1.11
  * Author: Viktor Dite + Claude
